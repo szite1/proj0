@@ -5,6 +5,7 @@ mkfs
 .cvsignore
 .dir-locals.el
 .gdbinit.tmpl
+.gdbinit
 
 _*
 *.d
